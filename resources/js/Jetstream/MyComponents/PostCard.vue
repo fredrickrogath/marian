@@ -1,7 +1,7 @@
 <template>
   <!-- component -->
   <div class="bg-gray-200 flex items-center justify-center sm:mb-4 mb-2">
-    <div class="border-gray-300 w-96 border">
+    <div class="border-gray-200 w-96 border">
       <!-- <post-card-content v-if="selectedComponent === 'post-card-content'"></post-card-content>
       <comments v-else-if="selectedComponent === 'comments'"></comments> -->
 

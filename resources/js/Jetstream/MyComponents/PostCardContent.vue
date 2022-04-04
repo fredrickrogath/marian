@@ -27,7 +27,7 @@
               transition
               ease-in-out
               delay-170
-              hover:-translate-y-1 hover:scale-110
+              hover:-translate-y-1 hover:scale-55
               duration-100
               h-6
               w-6
