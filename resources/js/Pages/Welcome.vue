@@ -20,7 +20,7 @@
                   px-4
                   font-semibold
                   uppercase
-                  md:text-2xl
+                  md:text-md
                 "
               >
                 {{ paragraph1 }}
@@ -38,7 +38,7 @@
                   px-4
                   font-semibold
                   uppercase
-                  md:text-2xl
+                  md:text-md
                 "
               >
                 {{ paragraph2 }}

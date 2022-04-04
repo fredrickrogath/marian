@@ -13,7 +13,7 @@
       <img src="https://picsum.photos/50/50" class="rounded-full w-10 h-10" />
     </div>
 
-    <div class="col-span-4 text-sm font-semibold">felister</div>
+    <div class="col-span-4 text-sm font-semibold">Marian Alumni</div>
 
     <!-- begining of option -->
     <div class="relative inline-block text-left">
@@ -24,11 +24,11 @@
             xmlns="http://www.w3.org/2000/svg"
             class="
               hover:cursor-pointer
-              ransition
+              transition
               ease-in-out
               delay-170
               hover:-translate-y-1 hover:scale-110
-              duration-300
+              duration-100
               h-6
               w-6
             "
@@ -194,7 +194,7 @@
         transition
         ease-in-out
         delay-190
-        hover:-translate-y-1 hover:scale-110
+        hover:sm:-translate-y-1 hover:sm:scale-110
         duration-300
       "
     />
