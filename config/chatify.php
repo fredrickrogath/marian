@@ -7,7 +7,7 @@ return [
     | Messenger display name
     |-------------------------------------
     */
-    'name' => env('CHATIFY_NAME', 'Marian Girls Alumni'),
+    'name' => env('CHATIFY_NAME', 'Marian Alumni'),
 
     /*
     |-------------------------------------
