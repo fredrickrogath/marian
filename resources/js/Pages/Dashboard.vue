@@ -68,7 +68,7 @@ export default defineComponent({
 
         fetch('https://dummyjson.com/products/')
 .then(res => res.json())
-.then(json => {this.users = json.products;console.log('used again')})
+.then(json => {this.users = json.products;})
 
       // POST request using fetch with error handling
     //   const requestOptions = {
