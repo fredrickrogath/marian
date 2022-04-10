@@ -1,7 +1,5 @@
 <template>
- <div data-aos="zoom-in-down"
-     data-aos-easing="ease-out-cubic"
-     data-aos-duration="2000">
+ <div >
     <header
     class="
       hover:cursor-pointer

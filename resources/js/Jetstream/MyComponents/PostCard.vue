@@ -53,13 +53,12 @@ export default defineComponent({
 <style scoped>
 .post-comment-enter-from {
   opacity: 0;
-  transform: translateY(40px);
+  transform: translateY(10px);
   height: 0px;
 }
 
 .post-comment-enter-active {
   transition: all 0.4 s ease-out;
-  height: 0px;
 }
 
 .post-comment-enter-to {
@@ -71,7 +70,6 @@ export default defineComponent({
 .post-comment-leave-from {
   opacity: 1;
   transform: translateY(0);
-  height: 0px;
 }
 
 .post-comment-leave-active {
@@ -82,8 +80,6 @@ export default defineComponent({
 
 .post-comment-leave-to {
   opacity: 0;
-  transform: translateY(-40px);
-  height: 0px;
 }
 
 /* .comments {
